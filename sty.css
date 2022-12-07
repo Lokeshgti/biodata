@@ -1,0 +1,75 @@
+*{
+    padding: 0;
+    margin: 0
+   
+}
+
+
+       
+
+body{
+    background-size:100%;
+}
+.home
+{    font-size: 35pt;
+    float:right;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    color:royalblue;
+    position: relative;
+    top:300px;
+    right: 100px;
+}
+.image img
+{
+    border-radius: 250px;
+    height: 430px;
+    width:430px
+}
+.image{
+    position:relative;
+    left:480px;
+    top: 200px;
+}
+.abt table tr td
+{
+    font-size: 30pt;
+    color:red;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.first{
+    position:relative;
+    top:200px;
+    left:300px;
+}
+.first h3{
+    color:brown;
+    font-size: 50pt;
+}
+.first h2
+{
+    color:green;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.tabfont h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 35pt;
+    color: aquamarine;
+}
+
+.navbar{
+    position:fixed;
+    left:30%;
+    z-index: 1;
+    
+}
+.navbar table tr td a{
+    font-size: 35px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:rgb(216, 15, 122);
+}
+.abt p{
+    font-size: 20pt;
+    color:blueviolet;
+    text-align: center;
+}
